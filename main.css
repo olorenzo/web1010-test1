@@ -1,0 +1,28 @@
+.topics{
+  list-style-type: none;
+}
+
+
+.primero{
+color: red;
+
+}
+
+.colleges{
+  background-color: yellow;
+
+}
+
+.colleges li{
+  color: green;
+}
+
+figure img {
+    width: 300px; height: 300px;
+
+
+}
+figure {
+  display:inline-block; 
+  margin: 20px;
+}
